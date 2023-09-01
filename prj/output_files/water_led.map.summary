@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Aug 29 11:10:47 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : water_led
+Top-level Entity Name : water_led
+Family : Cyclone IV E
+Total logic elements : 1,100
+    Total combinational functions : 640
+    Dedicated logic registers : 849
+Total registers : 849
+Total pins : 6
+Total virtual pins : 0
+Total memory bits : 122,880
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
